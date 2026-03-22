@@ -100,28 +100,31 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Submissions must be a watchable video (eg YouTube, Medal replay, Twitch, Google Drive, ect) that contains the full completion of a level with an extra 5-10 seconds of gameplay before the completion attempt. No cuts may be present during the completion attempt.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Submission must contain audible clicks if the level is insane demon or higher, audible clicks are also required if a mod menu (MegaHack, Eclipse, QOL, ect) is used regardless of the difficulty.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        If a mod menu is used in the completion, it is compulsory to have a visible cheat indicator somewhere on the screen visible at all times during the completion.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Any mods that are considered disallowed must be disabled in the completion, including hacks like noclip, speedhack, botting. (list of allowed and disallowed mods: https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?gid=0#gid=0). NOTE: CBF IS ALLOWED.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Completion must be done on the official version of the level with level stats also appearing when completed (eg stars, orbs, jump, attempts, time). If you are using a custom copy of the level, then it needs to be approved by list staff or be 100% confident that there are no gameplay changes.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Any skips or secret ways used to make gameplay easier or to complete a level is not allowed.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        No alt accounts are allowed to be on the leaderboard
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        You are not allowed to submit another completion to a level already completed by you to get extra list points, you are only allowed to submit another completion if your record is denied.
+                    </p>
+                    <p>
+                        If any "loopholes" are found in these rules, staff are allowed to decide to accept or deny records even if there is no specific rule against it.
                     </p>
                 </div>
             </div>
