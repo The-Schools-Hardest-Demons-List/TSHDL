@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submissions must be a watchable video (eg YouTube, Medal replay, Twitch, Google Drive, ect) that shows the level having 100% on normal mode and your statistics like attempts, jumps, ect. you do not have to submit a video of the completion, it just has to show the level completed.
+                        Submissions must be a watchable video (eg YouTube, Medal replay, Twitch, Google Drive, etc.) that shows the level having 100% on normal mode and your statistics (attempts etc.) on all copies of the level (eg startpos). you do not have to submit a video of the completion, it just has to show the level completed. SCREENSHOTS ARE NOT ALLOWED
                     </p>
                     <p>
                         Submissions that are insane demon or above must be submitted as a video of the completion, extreme demons require audible clicks and if you have a mod menu then it requires audible clicks for both insane and extreme demon completions.
