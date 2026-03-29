@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submissions must be a watchable video (eg YouTube, Medal replay, Twitch, Google Drive, ect) that contains the full completion of a level with an extra 5-10 seconds of gameplay before the completion attempt. No cuts may be present during the completion attempt.
+                        Submissions must be a watchable video (eg YouTube, Medal replay, Twitch, Google Drive, ect) that shows the level having 100% on normal mode and your statistics like attempts, jumps, ect. you do not have to submit a video of the completion, it just has to show the level completed.
                     </p>
                     <p>
-                        Submission must contain audible clicks if the level is insane demon or higher, audible clicks are also required if a mod menu (MegaHack, Eclipse, QOL, ect) is used regardless of the difficulty.
+                        Submissions that are insane demon or above must be submitted as a video of the completion, extreme demons require audible clicks and if you have a mod menu then it requires audible clicks for both insane and extreme demon completions.
                     </p>
                     <p>
                         If a mod menu is used in the completion, it is compulsory to have a visible cheat indicator somewhere on the screen visible at all times during the completion.
