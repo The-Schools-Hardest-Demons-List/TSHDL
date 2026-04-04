@@ -8,5 +8,12 @@
     "percentToQualify": "43",
     "password": "666777",
     "records": [
+        {
+            "user": "Milo (Unconfirmed)",
+            "link": "https://youtu.be/Aq5WXmQQooo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
+
