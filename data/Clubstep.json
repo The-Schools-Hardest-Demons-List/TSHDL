@@ -3,19 +3,19 @@
     "name": "Clubstep",
     "author": "RobTop",
     "creators": ["RobTop"],
-    "verifier": "Z/lla",
+    "verifier": "Josh",
     "verification": "https://youtu.be/hC7LjToSfZQ",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Henry (Unconfirmed)",
+            "user": "Henry",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Charlie (Unconfirmed)",
+            "user": "Charlie",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240

@@ -3,13 +3,13 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": ["Ggb0y"],
-    "verifier": "Z/lla",
+    "verifier": "Josh",
     "verification": "https://youtu.be/_8W8OWnuO7Y",
     "percentToQualify": "43",
     "password": "666777",
     "records": [
         {
-            "user": "Milo (Unconfirmed)",
+            "user": "Milo",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240

@@ -3,13 +3,13 @@
     "name": "Nine Circles",
     "author": "Zobros",
     "creators": ["Zobros"],
-    "verifier": "Z/lla",
+    "verifier": "Josh",
     "verification": "https://youtu.be/_SaS_bpIg8I",
     "percentToQualify": 100,
     "password": "121214",
     "records": [
         {
-            "user": "Henry (Unconfirmed)",
+            "user": "Henry",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240

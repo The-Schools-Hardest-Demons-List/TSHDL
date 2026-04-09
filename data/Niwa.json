@@ -3,13 +3,13 @@
     "name": "Niwa",
     "author": "Teno",
     "creators": ["Teno", "MrGM", "Aranda", "Titoalper", "KrazyGFX", "BeClan", "Asu", "Pedro", "Peng", "Blaze", "Genoxide"],
-    "verifier": "Z/lla",
+    "verifier": "Josh",
     "verification": "https://youtu.be/dupKE5HPMBs",
     "percentToQualify": 58,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Milo (Unconfirmed)",
+            "user": "Milo",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240
