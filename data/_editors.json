@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Z/lla",
+        "name": "Josh",
         "link": "https://www.youtube.com/@Zilla_Moo3"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Josh",
+        "link": "https://www.youtube.com/@Zilla_Moo3"
     },
     {
         "role": "helper",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "Z/lla",
+        "name": "Josh",
         "link": "https://www.youtube.com/@Zilla_Moo3"
     }
 ]
