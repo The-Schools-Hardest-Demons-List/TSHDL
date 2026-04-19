@@ -1,0 +1,18 @@
+{
+    "id": 848722,
+    "name": "Lights and Thunder",
+    "author": "Lyod",
+    "creators": ["Lyod"],
+    "verifier": "Josh",
+    "verification": "https://www.youtube.com/watch?v=s5dGaxW6AwU",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Charlie",
+            "link": "https://youtu.be/Aq5WXmQQooo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
