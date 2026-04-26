@@ -1,0 +1,18 @@
+{
+    "id": 60619762,
+    "name": "Denouement",
+    "author": "Synactive GD",
+    "creators": ["Synactive GD"],
+    "verifier": "Charlie",
+    "verification": "https://www.youtube.com/watch?v=zUsR5LA9gGY",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Josh",
+            "link": "https://www.youtube.com/watch?v=rwRYjsiDgow",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
