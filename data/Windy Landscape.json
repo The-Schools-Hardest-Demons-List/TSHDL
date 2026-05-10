@@ -3,15 +3,21 @@
     "name": "Windy Landscape",
     "author": "WOOGI1411",
     "creators": ["WOOGI1411"],
-    "verifier": "Josh",
-    "verification": "https://youtu.be/ZEWo00hz5FE",
+    "verifier": "Henry R",
+    "verification": "https://www.youtube.com/watch?v=hTX0Ch5bgMw&pp=ygUPd2luZHkgbGFuZHNjYXBl",
     "percentToQualify": 80,
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Josh",
+            "link": "https://youtu.be/ZEWo00hz5FE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Charlie",
             "link": "https://youtu.be/Aq5WXmQQooo",
-            "percent": 88,
+            "percent": 100,
             "hz": 240
         }
     ]
