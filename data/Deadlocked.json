@@ -4,12 +4,18 @@
     "author": "Robtop",
     "creators": ["Robtop"],
     "verifier": "Josh",
-    "verification": "https://youtu.be/lOa_7rqfgmw?t=184",
+    "verification": "https://youtu.be/dAr1VrxxEoU",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
             "user": "Henry R",
+            "link": "https://youtu.be/Aq5WXmQQooo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Harley",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240

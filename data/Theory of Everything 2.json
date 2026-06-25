@@ -4,7 +4,7 @@
     "author": "RobTop",
     "creators": ["RobTop"],
     "verifier": "Josh",
-    "verification": "https://youtu.be/lOa_7rqfgmw?t=181",
+    "verification": "https://www.youtube.com/watch?v=JJEL293lXQg",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
@@ -16,6 +16,12 @@
         },
         {
             "user": "Charlie",
+            "link": "https://youtu.be/Aq5WXmQQooo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Harley",
             "link": "https://youtu.be/Aq5WXmQQooo",
             "percent": 100,
             "hz": 240
